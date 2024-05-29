@@ -12,8 +12,7 @@ WHSH es una versión en shell linux del script escrito en python ["Wifi-Hack" de
 - Detecta si tienes las dependencias y las instala en caso negativo.
 
 ## Instalar
-git clone https://github.com/disketteomelette/WHSH.git
-sudo sh hackwifi.sh
+git clone https://github.com/disketteomelette/WHSH.git; cd WHSH; sudo sh hackwifi.sh
 
 ## Ejecutar ya desde la consola
 curl -o /tmp/hw.sh https://raw.githubusercontent.com/disketteomelette/WHSH/main/hackwifi.sh; sudo sh /tmp/hw.sh
